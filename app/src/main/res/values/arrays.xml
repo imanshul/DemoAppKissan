@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="tabs">
+        <item name="contacts">Contacts</item>
+        <item name="history">History</item>
+    </array>
+</resources>
